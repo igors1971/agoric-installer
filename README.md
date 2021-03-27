@@ -8,7 +8,7 @@ A bash script for fast and easy install Agoric Node.
  * At least 4GB RAM
  * 40GB SSD
  
-### Was tested on [Vultr](https://www.vultr.com/?ref=8716526-6G)
+### Was tested on [Vultr](https://www.vultr.com/)
 
 # Installation
  1. Connect to your server via SSH
