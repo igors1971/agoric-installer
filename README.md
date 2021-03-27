@@ -20,3 +20,4 @@ chmod +x agoric.sh
 ```
 3. Paste (Shift + Insert)
 4. Press Enter
+5. After installing go to [Nodes.Guru](https://nodes.guru/agoric/setup-guide/en) step 6 (Creating a Validator)
