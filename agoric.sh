@@ -36,7 +36,7 @@ EOF
 cp /usr/local/go/bin/go /usr/bin
 go version
 
-export GIT_BRANCH="@agoric/sdk@2.15.1"
+export GIT_BRANCH=agorictest-8
 git clone https://github.com/Agoric/agoric-sdk -b $GIT_BRANCH
 (cd agoric-sdk && npm --force install -g yarn && yarn install && yarn build)
 . $HOME/.bashrc
