@@ -660,3 +660,4 @@
 2025-02-10 04:11:34 update scripts
 2025-10-12 01:51:24 remove unused import
 2025-12-08 10:21:51 fix warnings
+2025-11-09 19:49:29 simplify logic
